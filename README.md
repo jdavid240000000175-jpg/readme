@@ -1,4 +1,3 @@
-# readme
 # Hi there, I'm Chartreuse
 
 Aspiring **Data Scientist/Analyst** | Freelance **Web Developer** | Student
